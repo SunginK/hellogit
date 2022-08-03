@@ -8,3 +8,5 @@ aaaaaaa
 
 
 home 클론받고 수정
+
+school에서 재수정
